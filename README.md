@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
 
-Implementation of KMeans clustering algorithm
-Principal component analysis
-Linear discriminant analysis
+1. Implementation of KMeans clustering algorithm
+2. Principal component analysis
+3. Linear discriminant analysis
